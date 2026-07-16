@@ -434,7 +434,7 @@ public class GameForm : Form
 
         if (gameOver)
         {
-            DrawOverlay(graphics, "FIN DEL JUEGO", "Presiona R para reiniciar"); //R de retrasado
+            DrawOverlay(graphics, "FIN DEL JUEGO", "Presiona R para reiniciar");
         }
     }
 
